@@ -5,3 +5,4 @@
 原图：
 ![play1](01.png)<br>
 效果图：
+![play2](01txt.png)<br>
